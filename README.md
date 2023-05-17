@@ -1,8 +1,11 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A664FF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Hello!+Hola!;I'm+Gabriel;I'm+a+Data+Analyst/Scientist)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A664FF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Hello!+Hola!;I'm+a+Data+Analyst/Scientist)
 
 <p> My name is Gabriel. I'm 25 years old, and I live in Brazil.<br>
 	I graduated in Chemical Engineering, but I'm studying to become a Data Scientist.<br>
-	Right now I'm focused on Machine Learning with <code>Scikit-Learn</code>. After that, I'll try Neural Networks and Deep Learning with <code>Keras</code> and <code>TensorFlow</code>.</p>
+	Right now I'm focused on Machine Learning with <code>Scikit-Learn</code>. After that,<br>
+	I'll try Neural Networks and Deep Learning with <code>Keras</code> and <code>TensorFlow</code>.</p>
+	
+<img align="right" src= width='150'>
 	
 <br>
 
@@ -24,12 +27,13 @@
 
 <br>
 
-<h2 align="left">Contact</h2>
+<h2 align="left">How to reach me</h2>
 <div align="left">
 	
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielfacheti/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fachetigabriel@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20008071/gabriel-facheti)
 </div>
+
 
 <p>~under development</p>

@@ -1,7 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A664FF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Hello!+Hola!;I'm+a+Data+Analyst/Scientist)
 
 ![GitHub](https://img.shields.io/github/followers/gfacheti.svg?style=social&label=Follow&maxAge=2592000)
-![Profile views](https://gpvc.arturio.dev/gfacheti)
 
 <div>
 <img align="right" src="img/totoro.gif" width="300">
@@ -34,5 +33,6 @@
 	
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielfacheti/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fachetigabriel@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-white?style=flat&logo=kaggle&logoColor=37bae8)](https://www.kaggle.com/gabrielfacheti)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20008071/gabriel-facheti)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-202830?style=flat&logo=letterboxd&logoColor=ff8000)](https://letterboxd.com/gfac/)

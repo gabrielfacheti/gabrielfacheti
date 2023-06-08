@@ -3,7 +3,6 @@
 ![GitHub](https://img.shields.io/github/followers/gfacheti.svg?style=social&label=Follow&maxAge=2592000)
 
 <div>
-<img align="right" src="img/totoro.gif" width="300">
 <p align="left"> My name is Gabriel. I'm 25 years old, and I live in Brazil.<br>
 	I graduated in Chemical Engineering, but I'm studying to become a Data Scientist.<br>
 	Right now I'm focused on Machine Learning with <code>Scikit-Learn</code>. After that,<br>

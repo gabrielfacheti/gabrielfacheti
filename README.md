@@ -3,10 +3,11 @@
 ![GitHub](https://img.shields.io/github/followers/gfacheti.svg?style=social&label=Follow&maxAge=2592000)
 
 <div>
-<p align="left"> My name is Gabriel. I'm 25 years old, and I live in Brazil.<br>
+<p align="left"> My name is Gabriel. I'm 25 years old and I live in Brazil.<br>
 	I graduated in Chemical Engineering, but I'm studying to become a Data Scientist.<br>
-	Right now I'm focused on Machine Learning with <code>Scikit-Learn</code>. After that,<br>
-	I'll try Neural Networks and Deep Learning with <code>Keras</code> and <code>TensorFlow</code>.
+	I'm a good self-learner but I'm also doing a specialization in Data Science at the Data Science Academy.<br><br>
+	My focus is on Machine Learning with <code>Scikit-Learn</code> and I also want to learn Neural Networks and<br>
+	Deep Learning with <code>Keras</code> and <code>TensorFlow</code>.
 	</p>
 </div>
 
@@ -16,7 +17,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=flat&logo=matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=flat&logo=matplotlib.pyplot&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-white?style=flat&logo=jupyter&logoColor=orange)

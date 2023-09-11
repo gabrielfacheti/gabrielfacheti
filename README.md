@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A664FF&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Hello!+Hola!;I'm+a+Data+Analyst/Scientist)
 
-![GitHub](https://img.shields.io/github/followers/gfacheti.svg?style=social&label=Follow&maxAge=2592000)
+![GitHub](https://img.shields.io/github/followers/gabrielfacheti.svg?style=social&label=Follow&maxAge=2592000)
 
 <div>
 <p align="left"> My name is Gabriel. I'm 25 years old and I live in Brazil.<br>

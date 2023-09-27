@@ -15,17 +15,35 @@
 
 <h2 align="left">Skills 🧑🏻‍💻</h2>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+<h3 align="left">Python</h3>
+
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=flat&logo=matplotlib.pyplot&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=flat&logo=seabornlogoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-white?style=flat&logo=plotly&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQL%20Alchemy-white.svg?style=flat&logo=sql-alchemy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+
+<h3 align="left">SQL</h3>
+
+![Postgre](https://img.shields.io/badge/PostgreSQL-navy?style=flat&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+
+<h3 align="left">Hadoop Ecosystem</h3>
+
+![Hadoop](https://img.shields.io/badge/Hadoop-FFFF00?style=flat&logo=apache-hadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FFFF00?style=flat&logo=apache-hive&logoColor=black)
+![HBase](https://img.shields.io/badge/HBase-white?style=flat&logo=apache-hbase&logoColor=CB0000)
+
+<h3 align="left">Others</h3>
+
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-white?style=flat&logo=jupyter&logoColor=orange)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/Power_BI-black?style=flat&logo=powerbi&logoColor=F2C811)
-![Postgres](https://img.shields.io/badge/PostgreSQL-navy?style=flat&logo=postgresql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-white?style=flat&logo=docker&logoColor=099CEC)
+
 
 <br>
 

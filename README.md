@@ -35,10 +35,11 @@
 ![Hadoop](https://img.shields.io/badge/Hadoop-FFFF00?style=flat&logo=apache-hadoop&logoColor=black)
 ![Hive](https://img.shields.io/badge/Hive-FFFF00?style=flat&logo=apache-hive&logoColor=black)
 ![HBase](https://img.shields.io/badge/HBase-white?style=flat&logo=apache-hbase&logoColor=CB0000)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
 <h3 align="left">Others</h3>
 
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-white?style=flat&logo=jupyter&logoColor=orange)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-white?style=flat&logo=jupyter&logoColor=orange)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/Power_BI-black?style=flat&logo=powerbi&logoColor=F2C811)

@@ -32,10 +32,11 @@
 
 <h3 align="left">Hadoop Ecosystem</h3>
 
-![Hadoop](https://img.shields.io/badge/Hadoop-FFFF00?style=flat&logo=apache-hadoop&logoColor=black)
-![Hive](https://img.shields.io/badge/Hive-FFFF00?style=flat&logo=apache-hive&logoColor=black)
-![HBase](https://img.shields.io/badge/HBase-white?style=flat&logo=apache-hbase&logoColor=CB0000)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache_Hadoop-FFFF00?style=flat&logo=apache-hadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Apache_Hive-FFFF00?style=flat&logo=apache-hive&logoColor=black)
+![HBase](https://img.shields.io/badge/Apache_HBase-white?style=flat&logo=apache-hbase&logoColor=CB0000)
+![Mahout](https://img.shields.io/badge/Apache_Mahout-FFFF00?style=flat&logo=apache-mahout&logoColor=black)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
 <h3 align="left">Others</h3>
 

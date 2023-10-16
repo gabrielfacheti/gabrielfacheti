@@ -45,6 +45,7 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/Power_BI-black?style=flat&logo=powerbi&logoColor=F2C811)
 ![Docker](https://img.shields.io/badge/Docker-white?style=flat&logo=docker&logoColor=099CEC)
+![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black)
 
 
 <br>
